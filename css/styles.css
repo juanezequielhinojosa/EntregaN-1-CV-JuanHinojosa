@@ -1,3 +1,4 @@
+/**Estilos generales*/
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Fascinate&family=League+Gothic&family=Rubik+Moonrocks&family=Shadows+Into+Light&family=Smooch&display=swap');
 
 :root {
@@ -15,7 +16,7 @@ body {
   padding: 0;
   font-family: 'League Gothic', sans-serif;
 }
-
+/**Estilos de el encabezado*/
 .navbar {
   position: fixed;
   width: 100%;
@@ -85,7 +86,7 @@ body {
   background-color: white;
   color:black;
 }
-
+/**Estilos para las distintas secciones*/
 .content {
   display: flex;
   height: 100vh;
